@@ -1,4 +1,0 @@
-mbGraphics
-==========
-
-Microbiome Pipeline Graphics
